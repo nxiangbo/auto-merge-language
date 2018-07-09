@@ -19,7 +19,7 @@ auto-merge-language是自动替换Android项目中的`strings.xml`多语文案�
     
 ``` 
 
-运行`python auto-merge-language`。
+运行`python auto-merge-language.py`。
 
 ## License
 
